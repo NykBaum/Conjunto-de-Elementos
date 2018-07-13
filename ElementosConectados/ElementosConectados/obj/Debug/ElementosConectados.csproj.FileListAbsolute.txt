@@ -1,0 +1,10 @@
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\bin\Debug\ElementosConectados.exe.config
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\bin\Debug\ElementosConectados.exe
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\bin\Debug\ElementosConectados.pdb
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\obj\Debug\ElementosConectados.csprojResolveAssemblyReference.cache
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\obj\Debug\ElementosConectados.Form1.resources
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\obj\Debug\ElementosConectados.Properties.Resources.resources
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\obj\Debug\ElementosConectados.csproj.GenerateResource.Cache
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\obj\Debug\ElementosConectados.csproj.CoreCompileInputs.cache
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\obj\Debug\ElementosConectados.exe
+c:\users\rejane\documents\visual studio 2017\Projects\ElementosConectados\ElementosConectados\obj\Debug\ElementosConectados.pdb
